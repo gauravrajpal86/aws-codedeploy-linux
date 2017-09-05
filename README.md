@@ -1,2 +1,2 @@
 # aws-codedeploy-linux
-Testing CI/CD Pipeline
+This is a simple website that can be deployed using AWS Code Services
